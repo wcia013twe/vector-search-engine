@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.ipynb_checkpoints/
+*.faiss
+*.npy
+*.npz
+*.parquet
+*.pt
+*.pth
+*.safetensors
+data/
+artifacts/
+mlruns/
+.DS_Store
